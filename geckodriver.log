@@ -1,0 +1,600 @@
+1516046834511	geckodriver	INFO	geckodriver 0.19.1
+1516046834609	geckodriver	INFO	Listening on 127.0.0.1:65172
+1516046836754	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.QRKMoiXaw3fP"
+1516046837738	Marionette	INFO	Enabled via --marionette
+2018-01-15 15:07:19.164 plugin-container[56764:22576885] Unable to find feedback application.
+2018-01-15 15:07:19.177 plugin-container[56764:22576885] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 16: TypeError: gBrowser is null
+1516046839863	Marionette	INFO	Listening on port 65179
+1516046840403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516046840464	Marionette	DEBUG	Register listener.js for window 2147483649
+1516046840487	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516046841205	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516046841206	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1516041009, line 4: unreachable code after return statement
+1516046843258	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+JavaScript error: https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1, line 23: TypeError: _bzfd is undefined
+1516046854596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1516046860363	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516046864802	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516046865220	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516046865249	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+JavaScript warning: https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1516041009, line 4: unreachable code after return statement
+1516046865981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/politics?p=1&z=5UKO2Y&r=1"
+1516046866124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516046866126	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516046866129	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516046866129	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516046866129	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516046866130	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1516046866131	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516046866132	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516046866132	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1516046866133	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516046866135	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1516046866135	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1516046866136	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1516046866137	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+JavaScript error: https://www.buzzfeed.com/politics?p=1&z=5UKO2Y&r=1, line 23: TypeError: _bzfd is undefined
+1516046868149	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/politics?p=1&z=5UKO2Y&r=1"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1516047064121	geckodriver	INFO	geckodriver 0.19.1
+1516047064197	geckodriver	INFO	Listening on 127.0.0.1:65426
+1516047064376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.F4CTMczdPucJ"
+1516047064970	Marionette	INFO	Enabled via --marionette
+2018-01-15 15:11:06.029 plugin-container[63547:22592527] Unable to find feedback application.
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 16: TypeError: gBrowser is null
+2018-01-15 15:11:06.096 plugin-container[63547:22592527] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516047066597	Marionette	INFO	Listening on port 65431
+1516047066824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516047066901	Marionette	DEBUG	Register listener.js for window 2147483649
+1516047066926	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516047067331	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516047067331	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1516041009, line 4: unreachable code after return statement
+1516047073654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516047092251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1516047099061	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516047221384	geckodriver	INFO	geckodriver 0.19.1
+1516047221483	geckodriver	INFO	Listening on 127.0.0.1:49266
+1516047223660	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.iU43qHeHADx8"
+1516047224405	Marionette	INFO	Enabled via --marionette
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 16: TypeError: gBrowser is null
+2018-01-15 15:13:45.789 plugin-container[68080:22605253] Unable to find feedback application.
+2018-01-15 15:13:45.807 plugin-container[68080:22605253] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516047226442	Marionette	INFO	Listening on port 49273
+1516047227312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516047227375	Marionette	DEBUG	Register listener.js for window 2147483649
+1516047227396	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516047229414	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516047229416	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1516041009, line 4: unreachable code after return statement
+1516047235472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+JavaScript error: https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1, line 23: TypeError: _bzfd is undefined
+1516047254940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1516047258080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1516047262670	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516047267020	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516047267129	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516047267171	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516047268536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516047268536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516047268537	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516047268538	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516047268539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516047268539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1516047268540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516047268541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516047268542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1516047268543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1516047268544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1516047268546	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1516047268547	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1516047268548	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+JavaScript warning: https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1516041009, line 4: unreachable code after return statement
+1516047268799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/politics?p=1&z=5UKO2Y&r=1"
+[Child 68080, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 68080, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 68080, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 68080, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 68080, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1516047331103	geckodriver	INFO	geckodriver 0.19.1
+1516047331188	geckodriver	INFO	Listening on 127.0.0.1:49474
+1516047331368	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.ZyaSKWEtrVQs"
+1516047332025	Marionette	INFO	Enabled via --marionette
+2018-01-15 15:15:33.153 plugin-container[71065:22614619] Unable to find feedback application.
+2018-01-15 15:15:33.166 plugin-container[71065:22614619] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 16: TypeError: gBrowser is null
+1516047334202	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///Applications/Firefox.app/Contents/Resources/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < goQuitApplication()@globalOverlay.js:65 < oncommand()@hiddenWindow.xul:1
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 16: TypeError: gBrowser is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/crypto-SDR.js, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIPK11TokenDB.getInternalKeyToken]
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/storage-json.js, line 89: Error: Initialization failed
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsLoginManager.js, line 129: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Initialization failed" {file: "jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/storage-json.js" line: 89}]'[JavaScript Error: "Initialization failed" {file: "jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/storage-json.js" line: 89}]' when calling method: [nsILoginManagerStorage::initialize]
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/BookmarkHTMLUtils.jsm, line 911: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.removeFolderChildren]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 251: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]'[JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]' when calling method: [nsIHandlerService::store]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 176: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 176: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+1516047336218	geckodriver	INFO	geckodriver 0.19.1
+1516047336292	geckodriver	INFO	Listening on 127.0.0.1:49491
+1516047336434	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.bPLrw9C1BNo4"
+1516047337196	Marionette	INFO	Enabled via --marionette
+2018-01-15 15:15:38.612 plugin-container[71257:22615318] Unable to find feedback application.
+2018-01-15 15:15:38.630 plugin-container[71257:22615318] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516047339390	Marionette	INFO	Listening on port 49496
+1516047340107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516047340181	Marionette	DEBUG	Register listener.js for window 2147483649
+1516047340207	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516047341646	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516047341647	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1516041009, line 4: unreachable code after return statement
+1516047355634	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+JavaScript error: https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1, line 23: TypeError: _bzfd is undefined
+1516047375851	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1516047381109	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516047408574	geckodriver	INFO	geckodriver 0.19.1
+1516047408652	geckodriver	INFO	Listening on 127.0.0.1:49616
+1516047408863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.YbC3kFe7RjqE"
+1516047410037	Marionette	INFO	Enabled via --marionette
+2018-01-15 15:16:51.651 plugin-container[72956:22620952] Unable to find feedback application.
+2018-01-15 15:16:51.662 plugin-container[72956:22620952] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 16: TypeError: gBrowser is null
+1516047412465	Marionette	INFO	Listening on port 49621
+1516047412574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516047412655	Marionette	DEBUG	Register listener.js for window 2147483649
+1516047412685	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516047413772	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516047413772	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1516041009, line 4: unreachable code after return statement
+1516047416675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+JavaScript error: https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1, line 23: TypeError: _bzfd is undefined
+1516047437353	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516047442397	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516047442480	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+1516047442509	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/politics?p=0&z=5UKO2Y&r=1"
+JavaScript warning: https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1516041009, line 4: unreachable code after return statement
+1516047443420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/politics?p=1&z=5UKO2Y&r=1"
+1516047443576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516047443577	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516047443577	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516047443578	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516047443578	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516047443579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1516047443582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516047443583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516047443586	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1516047443592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516047443593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1516047443594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1516047443595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1516047443599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+JavaScript error: https://www.buzzfeed.com/politics?p=1&z=5UKO2Y&r=1, line 23: TypeError: _bzfd is undefined
+1516047445776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483710"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1516053444887	geckodriver	INFO	geckodriver 0.19.1
+1516053444965	geckodriver	INFO	Listening on 127.0.0.1:52728
+1516053445128	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.ecyr1W9t8VQy"
+1516053449315	geckodriver	INFO	geckodriver 0.19.1
+1516053449388	geckodriver	INFO	Listening on 127.0.0.1:52746
+1516053449521	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.LLvNaBlPk6BS"
+1516053450304	Marionette	INFO	Enabled via --marionette
+2018-01-15 16:57:31.962 plugin-container[55835:23178197] Unable to find feedback application.
+2018-01-15 16:57:31.972 plugin-container[55835:23178197] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516053452814	Marionette	INFO	Listening on port 52751
+1516053453172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516053453264	Marionette	DEBUG	Register listener.js for window 2147483649
+1516053453528	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516053453958	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516053453958	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1516041009, line 4: unreachable code after return statement
+1516053455672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/life?p=0&z=5UKO2Y&r=1"
+JavaScript error: https://www.buzzfeed.com/life?p=0&z=5UKO2Y&r=1, line 23: TypeError: _bzfd is undefined
+1516053457041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516053457882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1516053459976	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/life?p=0&z=5UKO2Y&r=1"
+1516053464927	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/life?p=0&z=5UKO2Y&r=1"
+1516053465267	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/life?p=0&z=5UKO2Y&r=1"
+1516053465300	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/life?p=0&z=5UKO2Y&r=1"
+JavaScript warning: https://webappstatic.buzzfeed.com/static/js/General_concat_footer.js?v=1516041009, line 4: unreachable code after return statement
+1516053467187	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/life?p=1&z=5UKO2Y&r=1"
+1516053467236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1516053467239	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1516053467240	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516053467242	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516053467243	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516053467244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516053467251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516053467272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1516053467275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516053467277	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1516053467279	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1516053467281	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1516053467282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+JavaScript error: https://www.buzzfeed.com/life?p=1&z=5UKO2Y&r=1, line 23: TypeError: _bzfd is undefined
+1516053468829	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1516053469317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1516053469450	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/life?p=1&z=5UKO2Y&r=1"
+1516053475446	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/life?p=1&z=5UKO2Y&r=1"
+1516053475584	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/life?p=1&z=5UKO2Y&r=1"
+1516053475622	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/life?p=1&z=5UKO2Y&r=1"
+1516053475894	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/life?p=2&z=5UKO2Y&r=1"
+1516053475897	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1516053475898	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1516053475900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1516053475901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1516053475902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1516053475904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1516053475905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1516053475909	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1516053475912	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1516053475913	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1516053475915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1516053475917	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1516053475918	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1516053476817	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/life?p=2&z=5UKO2Y&r=1"
+1516053482107	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/life?p=2&z=5UKO2Y&r=1"
+1516053482331	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/life?p=2&z=5UKO2Y&r=1"
+1516053482335	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/life?p=2&z=5UKO2Y&r=1"
+1516053482462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/life?p=3&z=5UKO2Y&r=1"
+1516053483464	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/life?p=3&z=5UKO2Y&r=1"
+1516053489966	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/life?p=3&z=5UKO2Y&r=1"
+1516053490212	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/life?p=3&z=5UKO2Y&r=1"
+1516053490215	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/life?p=3&z=5UKO2Y&r=1"
+1516053490374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/life?p=4&z=5UKO2Y&r=1"
+1516053491706	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/life?p=4&z=5UKO2Y&r=1"
+1516053497505	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/life?p=4&z=5UKO2Y&r=1"
+1516053497599	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/life?p=4&z=5UKO2Y&r=1"
+1516053497603	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/life?p=4&z=5UKO2Y&r=1"
+1516053497738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/life?p=5&z=5UKO2Y&r=1"
+1516053498950	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/life?p=5&z=5UKO2Y&r=1"
+1516053503553	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/life?p=5&z=5UKO2Y&r=1"
+1516053503702	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/life?p=5&z=5UKO2Y&r=1"
+1516053503706	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/life?p=5&z=5UKO2Y&r=1"
+1516053503841	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/life?p=6&z=5UKO2Y&r=1"
+1516053504628	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/life?p=6&z=5UKO2Y&r=1"
+1516053509981	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/life?p=6&z=5UKO2Y&r=1"
+1516053510202	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/life?p=6&z=5UKO2Y&r=1"
+1516053510211	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/life?p=6&z=5UKO2Y&r=1"
+1516053510612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/life?p=7&z=5UKO2Y&r=1"
+1516053512460	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/life?p=7&z=5UKO2Y&r=1"
+1516124272269	geckodriver	INFO	geckodriver 0.19.1
+1516124272384	geckodriver	INFO	Listening on 127.0.0.1:51954
+1516124275799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.EGW0YDJGyAok"
+1516124276868	Marionette	INFO	Enabled via --marionette
+2018-01-16 12:37:57.997 plugin-container[1857:807753] Unable to find feedback application.
+2018-01-16 12:37:58.005 plugin-container[1857:807753] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516124278954	Marionette	INFO	Listening on port 51967
+1516124279979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516124280034	Marionette	DEBUG	Register listener.js for window 2147483649
+1516124280053	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516124280201	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516124280201	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516124280697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/amberjamieson/13-siblings-were-held-captive-by-their-parents?utm_term=.ttx77vJAE#.fgK112qQ4"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516124283520	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/amberjamieson/13-siblings-were-held-captive-by-their-parents?utm_term=.uwnpVdzXNg#.weQVXgepqN"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516124296823	geckodriver	INFO	geckodriver 0.19.1
+1516124296892	geckodriver	INFO	Listening on 127.0.0.1:52071
+1516124300978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.lY2pMyVlvELd"
+1516124301629	Marionette	INFO	Enabled via --marionette
+2018-01-16 12:38:22.862 plugin-container[2588:810024] Unable to find feedback application.
+2018-01-16 12:38:22.876 plugin-container[2588:810024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516124303435	Marionette	INFO	Listening on port 52087
+1516124304114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516124304238	Marionette	DEBUG	Register listener.js for window 2147483649
+1516124304272	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516124304905	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516124304906	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516124305494	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/amberjamieson/13-siblings-were-held-captive-by-their-parents?utm_term=.ttx77vJAE#.fgK112qQ4"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516124308677	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/amberjamieson/13-siblings-were-held-captive-by-their-parents?utm_term=.ngd10Xp1g#.pjwLJ7RLP"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516124395451	geckodriver	INFO	geckodriver 0.19.1
+1516124395563	geckodriver	INFO	Listening on 127.0.0.1:52294
+1516124399709	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.Exqzooh146DO"
+1516124400659	Marionette	INFO	Enabled via --marionette
+2018-01-16 12:40:02.263 plugin-container[5546:822827] Unable to find feedback application.
+2018-01-16 12:40:02.288 plugin-container[5546:822827] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa047, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516124403275	Marionette	INFO	Listening on port 52309
+1516124403963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516124404051	Marionette	DEBUG	Register listener.js for window 2147483649
+1516124404092	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516124404256	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516124404256	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516124404503	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/amberjamieson/13-siblings-were-held-captive-by-their-parents?utm_term=.ttx77vJAE#.fgK112qQ4"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516124406696	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/amberjamieson/13-siblings-were-held-captive-by-their-parents?utm_term=.maJN6RLDq#.biKaNLVW1"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516124438304	geckodriver	INFO	geckodriver 0.19.1
+1516124438402	geckodriver	INFO	Listening on 127.0.0.1:52468
+1516124442524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.YlfXycnetvek"
+1516124443236	Marionette	INFO	Enabled via --marionette
+2018-01-16 12:40:44.535 plugin-container[6861:827988] Unable to find feedback application.
+2018-01-16 12:40:44.547 plugin-container[6861:827988] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516124445752	Marionette	INFO	Listening on port 52483
+1516124446681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516124446766	Marionette	DEBUG	Register listener.js for window 2147483649
+1516124446789	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516124446933	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516124446934	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516124447594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/amberjamieson/13-siblings-were-held-captive-by-their-parents?utm_term=.ttx77vJAE#.fgK112qQ4"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516124450959	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/amberjamieson/13-siblings-were-held-captive-by-their-parents?utm_term=.hcvLwoAYvg#.xwVzqbyROY"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516125440461	geckodriver	INFO	geckodriver 0.19.1
+1516125440544	geckodriver	INFO	Listening on 127.0.0.1:53984
+1516125444616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.zIuxkqtJ9ljC"
+1516125445596	Marionette	INFO	Enabled via --marionette
+2018-01-16 12:57:27.015 plugin-container[37087:917682] Unable to find feedback application.
+2018-01-16 12:57:27.039 plugin-container[37087:917682] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516125447966	Marionette	INFO	Listening on port 53997
+1516125448879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516125448940	Marionette	DEBUG	Register listener.js for window 2147483649
+1516125459579	geckodriver	INFO	geckodriver 0.19.1
+1516125459648	geckodriver	INFO	Listening on 127.0.0.1:54034
+1516125463795	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.tabBiA8IM1o5"
+2018-01-16 12:57:44.469 plugin-container[37598:919017] Unable to find feedback application.
+2018-01-16 12:57:44.481 plugin-container[37598:919017] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb83f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1516125464760	Marionette	INFO	Enabled via --marionette
+2018-01-16 12:57:45.816 plugin-container[37687:919315] Unable to find feedback application.
+2018-01-16 12:57:45.832 plugin-container[37687:919315] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516125466805	Marionette	INFO	Listening on port 54049
+1516125467008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516125467110	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516125819107	geckodriver	INFO	geckodriver 0.19.1
+1516125819186	geckodriver	INFO	Listening on 127.0.0.1:54637
+1516125823274	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.3PbkmcHvHFWW"
+1516125823903	Marionette	INFO	Enabled via --marionette
+2018-01-16 13:03:45.077 plugin-container[48602:953614] Unable to find feedback application.
+2018-01-16 13:03:45.095 plugin-container[48602:953614] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516125825594	Marionette	INFO	Listening on port 54650
+1516125826429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516125826484	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516125839629	geckodriver	INFO	geckodriver 0.19.1
+1516125839703	geckodriver	INFO	Listening on 127.0.0.1:54689
+1516125843806	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.RdZmx9zyeud9"
+1516125844488	Marionette	INFO	Enabled via --marionette
+2018-01-16 13:04:05.678 plugin-container[49253:955772] Unable to find feedback application.
+2018-01-16 13:04:05.688 plugin-container[49253:955772] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516125846314	Marionette	INFO	Listening on port 54704
+1516125846951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516125847005	Marionette	DEBUG	Register listener.js for window 2147483649
+1516125865266	geckodriver	INFO	geckodriver 0.19.1
+1516125865335	geckodriver	INFO	Listening on 127.0.0.1:54751
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516125869485	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.VI9RKZjGLKMR"
+1516125870119	Marionette	INFO	Enabled via --marionette
+2018-01-16 13:04:31.174 plugin-container[50045:958366] Unable to find feedback application.
+2018-01-16 13:04:31.195 plugin-container[50045:958366] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516125871694	Marionette	INFO	Listening on port 54766
+1516125872637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516125872688	Marionette	DEBUG	Register listener.js for window 2147483649
+1516125872705	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516125872837	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516125872838	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516125873121	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/darrensands/john-lewis-said-he-gets-taunted-by-people-who-yell-trump-at"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516125876449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516125876450	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516125885525	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/darrensands/john-lewis-said-he-gets-taunted-by-people-who-yell-trump-at?utm_term=.wdPP6z78P#.ep0AY3qnA"
+1516125926972	geckodriver	INFO	geckodriver 0.19.1
+1516125927614	geckodriver	INFO	Listening on 127.0.0.1:54959
+1516125928675	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.TyEcKIoyHi9F"
+1516125931042	Marionette	INFO	Enabled via --marionette
+2018-01-16 13:05:35.080 plugin-container[51411:964885] Unable to find feedback application.
+2018-01-16 13:05:35.098 plugin-container[51411:964885] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516125936001	Marionette	INFO	Listening on port 54969
+1516125936546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516125936650	Marionette	DEBUG	Register listener.js for window 2147483649
+1516125936686	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516125936865	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516125936866	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516125937970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/darrensands/john-lewis-said-he-gets-taunted-by-people-who-yell-trump-at"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516125943046	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516125943070	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516125956388	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/darrensands/john-lewis-said-he-gets-taunted-by-people-who-yell-trump-at?utm_term=.vxkljMZk0#.neM2ZodaL"
+1516126276769	geckodriver	INFO	geckodriver 0.19.1
+1516126276865	geckodriver	INFO	Listening on 127.0.0.1:55599
+1516126280985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.NTA2T0do1odc"
+1516126281756	Marionette	INFO	Enabled via --marionette
+2018-01-16 13:11:23.321 plugin-container[61405:1001143] Unable to find feedback application.
+2018-01-16 13:11:23.348 plugin-container[61405:1001143] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516126284022	Marionette	INFO	Listening on port 55614
+1516126284206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516126284303	Marionette	DEBUG	Register listener.js for window 2147483649
+1516126284365	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516126285007	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516126285007	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516126285705	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/darrensands/john-lewis-said-he-gets-taunted-by-people-who-yell-trump-at"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516126290854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516126290889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516126302643	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/darrensands/john-lewis-said-he-gets-taunted-by-people-who-yell-trump-at?utm_term=.crbDZrJBd#.rrOJ71N83"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1516126348939	geckodriver	INFO	geckodriver 0.19.1
+1516126349024	geckodriver	INFO	Listening on 127.0.0.1:55805
+1516126353237	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/hd/4259kptn4q76lsj3jm99h7mc0000gn/T/rust_mozprofile.n36vmHOYEpV0"
+1516126353991	Marionette	INFO	Enabled via --marionette
+2018-01-16 13:12:34.974 plugin-container[63184:1007243] Unable to find feedback application.
+2018-01-16 13:12:34.984 plugin-container[63184:1007243] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516126355588	Marionette	INFO	Listening on port 55820
+1516126356382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516126356447	Marionette	DEBUG	Register listener.js for window 2147483649
+1516126356815	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516126357520	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516126357521	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516126357843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/darrensands/trumps-shithole-comment-sets-off-angry-awkward-martin"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516126361498	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1516126361519	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516126365524	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/darrensands/trumps-shithole-comment-sets-off-angry-awkward-martin?utm_term=.cnVz9w6MB#.qpG3dMRgP"
+1516126367225	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/darrensands/trumps-shithole-comment-sets-off-angry-awkward-martin?utm_term=.cnVz9w6MB#.qpG3dMRgP"
+1516126367417	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/darrensands/trumps-shithole-comment-sets-off-angry-awkward-martin?utm_term=.cnVz9w6MB#.qpG3dMRgP"
+1516126367467	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/darrensands/trumps-shithole-comment-sets-off-angry-awkward-martin?utm_term=.cnVz9w6MB#.qpG3dMRgP"
+1516126368209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/chrisgeidner/supreme-court-agrees-to-hear-texas-appeal-of-racial"
+1516126369183	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1516126369193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1516126369194	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516126369199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516126369199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1516126369200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516126369208	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516126369212	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1516126369215	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1516126369216	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1516126369219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516126372717	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1516126373103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1516126379764	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/chrisgeidner/supreme-court-agrees-to-hear-texas-appeal-of-racial?utm_term=.paBpNO8Ww#.nnM4D20qN"
+1516126382346	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/chrisgeidner/supreme-court-agrees-to-hear-texas-appeal-of-racial?utm_term=.paBpNO8Ww#.nnM4D20qN"
+1516126382595	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/chrisgeidner/supreme-court-agrees-to-hear-texas-appeal-of-racial?utm_term=.paBpNO8Ww#.nnM4D20qN"
+1516126382613	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/chrisgeidner/supreme-court-agrees-to-hear-texas-appeal-of-racial?utm_term=.paBpNO8Ww#.nnM4D20qN"
+1516126382931	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/darrensands/black-political-groups-are-so-ready-for-kamala-harris-they"
+1516126382968	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1516126382969	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1516126382971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1516126382974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1516126382975	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1516126382976	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1516126382977	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1516126382981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1516126382984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1516126382985	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1516126382992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483710"
+1516126382993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1516126382994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1516126382994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516126385900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483733"
+1516126386936	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483737"
+1516126386955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483741"
+1516126388705	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/darrensands/black-political-groups-are-so-ready-for-kamala-harris-they?utm_term=.puxrZyMLK#.xlbyK06eL"
+1516126389947	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/darrensands/black-political-groups-are-so-ready-for-kamala-harris-they?utm_term=.puxrZyMLK#.xlbyK06eL"
+1516126390076	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/darrensands/black-political-groups-are-so-ready-for-kamala-harris-they?utm_term=.puxrZyMLK#.xlbyK06eL"
+1516126390087	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/darrensands/black-political-groups-are-so-ready-for-kamala-harris-they?utm_term=.puxrZyMLK#.xlbyK06eL"
+1516126390406	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/paulmcleod/senate-group-reaches-tentative-deal-to-protect-dreamers"
+1516126390788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483771"
+1516126390789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483755"
+1516126390789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1516126390790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483763"
+1516126390790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483765"
+1516126390791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+1516126390791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483742"
+1516126390792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483738"
+1516126390792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483739"
+1516126390792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483740"
+1516126390793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483743"
+1516126390793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483752"
+1516126390794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1516126390794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483767"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516126395112	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483802"
+1516126395486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483781"
+1516126395531	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483783"
+1516126396673	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/paulmcleod/senate-group-reaches-tentative-deal-to-protect-dreamers?utm_term=.mbnZDbOn8#.tx3aLxY9r"
+1516126397163	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/paulmcleod/senate-group-reaches-tentative-deal-to-protect-dreamers?utm_term=.mbnZDbOn8#.tx3aLxY9r"
+1516126397440	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.buzzfeed.com/paulmcleod/senate-group-reaches-tentative-deal-to-protect-dreamers?utm_term=.mbnZDbOn8#.tx3aLxY9r"
+1516126397466	Marionette	DEBUG	Received DOM event "unload" for "https://www.buzzfeed.com/paulmcleod/senate-group-reaches-tentative-deal-to-protect-dreamers?utm_term=.mbnZDbOn8#.tx3aLxY9r"
+1516126397643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.buzzfeed.com/chrisgeidner/justices-appear-likely-to-uphold-ohios-system-for-removing"
+1516126397980	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483821"
+1516126397981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483810"
+1516126397981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483805"
+1516126397982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483780"
+1516126397983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1516126397984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483784"
+1516126397985	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483788"
+1516126397987	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483785"
+1516126397992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483786"
+1516126397993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483787"
+1516126397994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483777"
+1516126397994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483798"
+1516126397994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483800"
+1516126397995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483807"
+1516126397995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483815"
+1516126397996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483819"
+JavaScript error: https://www.buzzfeed.com/static-assets/js/core.f0ab0204ac719a617543.js, line 1: Error: A/B test check failed
+1516126399548	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483826"
+1516126400376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483830"
+1516126400388	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483831"
+1516126402520	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.buzzfeed.com/chrisgeidner/justices-appear-likely-to-uphold-ohios-system-for-removing?utm_term=.anDznA9xJ#.hiNWOdE7r"
+1516126403521	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.buzzfeed.com/chrisgeidner/justices-appear-likely-to-uphold-ohios-system-for-removing?utm_term=.anDznA9xJ#.hiNWOdE7r"
